@@ -1,0 +1,28 @@
+{
+    "contests": [
+      {
+        "id": 1,
+        "categoryName": "Business/Company",
+        "contestName": "Cognitive Building Bricks",
+        "description":  " This game is to assess your cognitive abilities"
+      },
+      {
+        "id": 2,
+        "categoryName": "Magazine/Newsletter",
+        "contestName": "Educating people about sustainable food production",
+        "description":  " This game is to assess your knowledge bases"
+      },
+      {
+        "id": 3,
+        "categoryName": "Software Component",
+        "contestName": "Big Data Analytics for Cash Circulation",
+        "description":  " This game is to assess your software skills"
+      },
+      {
+        "id": 4,
+        "categoryName": "Website",
+        "contestName": "Free programming books",
+        "description":  " This game is to teach your some programming skills"
+      }
+    ]
+}
